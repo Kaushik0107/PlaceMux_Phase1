@@ -1,0 +1,6 @@
+Metric,Value
+Best Parameters,"{'classifier__C': 0.1, 'classifier__max_iter': 100, 'classifier__solver': 'lbfgs'}"
+Best CV Accuracy,0.980952380952381
+Baseline Test Accuracy,0.9111111111111111
+Tuned Test Accuracy,0.9333333333333333
+Accuracy Improvement,0.022222222222222254
