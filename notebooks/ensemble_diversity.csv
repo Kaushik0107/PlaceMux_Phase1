@@ -1,0 +1,4 @@
+Model,Learning Type,Included in Ensemble
+Logistic Regression,Linear Model,Yes
+Decision Tree,Tree-Based Model,Yes
+Random Forest,Bagging Ensemble,Yes
